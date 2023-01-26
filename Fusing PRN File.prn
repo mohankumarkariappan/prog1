@@ -4,6 +4,7 @@ SET RIBBON ON
 DIRECTION 0,0
 if(a === b || a === c)
 A123
+B123
 12122 
 REFERENCE 0,0.1.2
 OFFSET 0 mm
