@@ -6,6 +6,7 @@ if(a === b || a === c)
 A123
 B123
 C123
+D1234
 12122 
 REFERENCE 0,0.1.2
 OFFSET 0 mm
